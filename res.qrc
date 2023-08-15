@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>polygon_frag.frag</file>
+        <file>polygon_Vert.vert</file>
+        <file>test_volumefrag1.frag</file>
+        <file>test_volumevert1.vert</file>
+        <file>test_frag.frag</file>
+        <file>test_vert.vert</file>
+    </qresource>
+</RCC>
