@@ -1,7 +1,7 @@
 # QT-VDBRender
 use openvdb API and generate 3Dtexture with QTOpenGL and RayMarching
 
-Run the this Project before you shoud:
+Before running you need
 	
 1: install vcpkg
 
