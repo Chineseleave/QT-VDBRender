@@ -9,4 +9,4 @@ Before running you need
 
 3: In QtCreator init build project CMAKE_TOOLCHAIN_FILE = "$YourPath/vcpkg.cmake"
 
-4: in mainwindow.cpp point your vdbFile. !enjoy
+4: in mainwindow.cpp point your vdbFile. !enjoy it
